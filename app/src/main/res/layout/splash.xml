@@ -12,7 +12,7 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="MAYOR PRODUCTIONS"
         android:layout_marginBottom="80dp"
-        android:layout_marginLeft="80dp"
+        android:layout_marginLeft="140dp"
         android:textSize="40dp"
         android:id="@+id/textView"
         android:layout_gravity="center_vertical"
